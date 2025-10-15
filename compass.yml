@@ -1,0 +1,13 @@
+name: 10-days-of-git-and-github
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/9ea8ea70-3392-457f-825e-b30c14bee1d3
+description: 'Some video lessons on YouTube: This videos may help too: https://www.youtube.com/watch?v=9cCApTLb_Io&t=3s&ab_channel=WasheraAcademy'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
